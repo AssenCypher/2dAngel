@@ -1,12 +1,10 @@
-# 2dAngel
+# 2d Angel VRC Packages
 
-2d Angel VPM listing repo.
+Community VPM listing for 2d Angel tools.
 
-This repository publishes a VPM listing that aggregates:
+Packages currently included:
+- AngelPanel Core
+- Angel Probe Tools
 
-- AssenCypher/AngelPanel-VPM
-- AssenCypher/AngelProbeTools
-
-Listing URL after GitHub Pages is enabled:
-
-https://assencypher.github.io/2dAngel/index.json
+Repository URL for VCC / ALCOM:
+`https://raw.githubusercontent.com/AssenCypher/2dAngel/main/index.json`
